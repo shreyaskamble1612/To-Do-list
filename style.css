@@ -10,6 +10,8 @@
     padding: 10px;
 }
 
+
+
 .to-do-app{
     width: 100%;
     max-width: 540px;
@@ -17,8 +19,8 @@
     margin: 100px auto 20px;
     padding: 40px 30px 40px;
     border-radius: 10px;
-    
 }
+
 
 .to-do-app h2{
     color: #302418;
@@ -45,7 +47,6 @@ input{
     border: none;
     outline: none;
     background: transparent; 
-
 }
 button{
     border: none;
